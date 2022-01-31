@@ -1,3 +1,3 @@
 # git_test
-My firt git repo
+My first git repo
 Hello odin!
